@@ -1,14 +1,16 @@
 name: Jonathan Kumin - Music
-layout_spectrum: 0.3767212023200083
-typography_spectrum: 0.7851615976665567
+layout_spectrum: 0.2768807557877153
+typography_spectrum: 0.05064202495850623
 color:
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  brandStrength: 0.5267147439082105
-  lightness: 0.14546261507189606
-  saturation: 0.4388432261296993
-  rhythmicContrast: 0.8137411678588914
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.9109632375184447
+  lightness: 0.43713628500699997
+  saturation: 0.7728374558500946
+  rhythmicContrast: 0.19375450839288533
+coverPrefs:
+  filter: false
