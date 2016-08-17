@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Instagram
-datePublished: '2016-08-17T18:31:42.563Z'
-dateModified: '2016-08-17T18:31:39.976Z'
+datePublished: '2016-08-17T18:50:07.057Z'
+dateModified: '2016-08-17T18:50:03.549Z'
 publisher: {}
 author: []
 inFeed: true
@@ -14,12 +14,12 @@ sourcePath: _posts/2016-08-17-instagram.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2af3843-6cc5-499d-a9f6-70d7e3c1ef84.png)
+
 # Instagram
 
 > Follow me on Instagram!
 > 
 > https://www.instagram.com/p/BIdT7UQhRtC/
-
-![5,000+ Followers!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51bad8f1-6c7b-4c5d-ada2-8a83083b7a35.png)
 
 Hey everyone! We've been working on our Instagram for some time now, and we've finally broken 5,000 followers! Keep liking and sharing for more content!
